@@ -73,6 +73,7 @@ eframe = { version = "0.36.0", default-features = false, features = [
     "glow",
     "wayland",
     "x11",
+    "links"
 ] }
 
 image = { version = "0.25", default-features = false, features = ["png"] }
