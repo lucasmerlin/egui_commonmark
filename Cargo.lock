@@ -618,7 +618,6 @@ dependencies = [
  "egui_commonmark_backend",
  "egui_commonmark_macros",
  "egui_extras",
- "foreign-types-macros",
  "image",
  "pulldown-cmark",
 ]

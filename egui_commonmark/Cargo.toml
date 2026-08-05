@@ -25,7 +25,6 @@ egui = { workspace = true }
 document-features = { workspace = true, optional = true }
 
 pulldown-cmark = { workspace = true }
-foreign-types-macros = "=0.2.3"
 
 [features]
 default = ["load-images", "pulldown_cmark"]
